@@ -1,0 +1,13 @@
+
+body{
+    color:rgb(83, 62, 5);
+background: linear-gradient(to left,skyblue,lightgreen);
+	background-attachment:fixed;
+	text-align: center;
+}
+
+
+p{
+	background: linear-gradient(to left,skyblue,lightgreen);
+	background-attachment:fixed;
+}
